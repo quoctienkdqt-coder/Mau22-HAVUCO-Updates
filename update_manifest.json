@@ -1,7 +1,7 @@
 {
     "version": "1.2.14",
     "download_url": "https://github.com/quoctienkdqt-coder/Mau22-HAVUCO-Updates/releases/download/1.2.14/mysetup_havuco.exe",
-    "sha256": "dee88bc3b94cf13bbdecd3e5ea74b6429b2e4d4c72025aab3c70291d929a010c",
-    "signature": "ufsbYA3/MkXPX0wzIklm6rDKkFwzPohhgWA7QAQJU6gcjN3WVo13GdmdQTgAzSvpj+e6lsgFyBCQKS0RhbrABA==",
-    "release_notes": "- Sửa nút \"Kiểm tra kết nối\" ở mục KEY AI CÔNG TY: trước đây luôn báo lỗi vì cổng AI công ty không hỗ trợ lệnh xem danh sách model, nay thử bằng một câu hỏi rất ngắn.\n- Khi không tới được cổng AI công ty, phần mềm báo rõ \"hãy vào mạng công ty hoặc bật VPN\" thay vì \"timed out\".\n- Đọc chứng từ: gửi thẳng nội dung file qua cổng AI công ty (cổng không hỗ trợ tải file lên), bớt một lần gọi lỗi cho mỗi file."
+    "sha256": "fcb297eb18671b53ca4f3ed31452504471be7476fa63e66824f2a3aacb119129",
+    "signature": "mvgvIP4fcbGsEbxKjy/Nwol95/nmbjiO3bPmKKS+ALV8EPzF0tKWGHI76duJjKO4OvHVBfSLKhAkQ/h4P/OXAA==",
+    "release_notes": "- Đội AI: sửa lỗi bỏ trống giấy phép khai thác khi giấy phép không in tên tàu, chỉ in số đăng ký tàu (VD giấy phép biển cả Sri Lanka). Nay ghép giấy phép với tàu theo số đăng ký RFMO / quốc gia.\n- Đội AI: ô \"Đối tượng được phép khai thác\" lấy đúng danh sách loài trên giấy phép, chép nguyên văn cả tên địa phương trong ngoặc.\n- Nhật ký sử dụng AI của bản công ty ghi vào tab riêng \"API_Log_HAVUCO\" trên Google Sheet.\n- Nút \"Kiểm tra kết nối\" ở mục KEY AI CÔNG TY hoạt động đúng với cổng AI công ty; báo rõ khi cần bật VPN.\n- Đọc chứng từ: gửi thẳng nội dung file qua cổng AI công ty."
 }
