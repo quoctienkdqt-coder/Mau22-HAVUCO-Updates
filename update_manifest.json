@@ -1,0 +1,7 @@
+{
+    "version": "1.2.13",
+    "download_url": "https://github.com/quoctienkdqt-coder/Mau22-HAVUCO-Updates/releases/download/1.2.13/mysetup_havuco.exe",
+    "sha256": "aa3196511382dc3a11e3bbd98b2735dd4fccd75a226cc0b31d7134d7ddc66f28",
+    "signature": "8MBvBQeXi3subKNmXv39saHuO4hmRtiMr0YmMw4gnioAs4zi/vdGTZpld1flOimVzxpd0+PrcMPKMQ11dmQ/CQ==",
+    "release_notes": "- Số hóa Mẫu 22 (Luồng 2) khi bật \"Đội AI\": đọc thẳng PDF Mẫu 22 bằng phần mềm, KHÔNG cần AI, không tốn phí, vài giây/file. Đọc được cả Mẫu 22 kiểu cũ (bảng không có cột TT, chuyển tải / container viết dạng đoạn văn). PDF dạng ảnh scan mới chuyển sang AI. Lượt đọc bằng code vẫn ghi nhật ký (0đ) để theo dõi độ chính xác.\n- Sửa lệch dòng tàu – giấy phép khi Word ngắt 1 dòng giấy phép thành 2 dòng (Mẫu 22 kiểu cũ).\n- Chữ trên Mẫu 22 đã nộp (tên tàu, cơ quan cấp, khu vực, cảng...) được giữ nguyên văn; sửa lỗi dính chữ, mất dòng, ghép sai giấy phép khi đối chiếu PDF DVC/eCDT.\n- Học IMO tàu chở container: sửa IMO tàu chở 1 lần, các hồ sơ sau gặp lại tàu đó (kể cả kèm số chuyến) tự điền đúng.\n- Bảo mật: mục \"Báo cáo đánh giá chi phí API\" chỉ hiển thị lịch sử của CHÍNH MÁY BẠN."
+}
